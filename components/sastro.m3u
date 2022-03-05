@@ -275,14 +275,24 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="aotg VOD" tvg-logo="",ulya dini ep8
+#EXTINF:-1 tvg-id="warna" ch-number="396" group-title="alwaffy" tvg-logo="",ulya dini ep8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b3a2e3a59048b7fcdb07a76ea169df10&key=edef8ba979d64acea3c827dcd51d21ed
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/d3c55c27-d76c-50a2-89b5-05aa7b3acec5/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="alwaffy" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png",Astro RIA
+#EXTINF:-1 tvg-id="AstroRia" group-title="alwaffy" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png",Astro RIA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=edef8ba979d64acea3c827dcd51d21ed
 https://linears-playback.astro.com.my/vsg/21RIBeqK5cOu5vxirwkW0-6fZTC6Tc_0s9w4I79t_-oVU=hYP3/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroRia" group-title="alwaffy" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png",Astro RIA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=edef8ba979d64acea3c827dcd51d21ed
+https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroOasis" group-title="alwaffy" ch-number="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-2-json-by-aqfad.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 <noscript>
